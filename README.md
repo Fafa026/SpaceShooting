@@ -4,8 +4,8 @@
     taituruuden.
 
 ## Peli on toteutettu 2D-grafiikalla, mikä
-## tarkoittaa, että pelaajat näkevät pelin ylhäältä katsottuna. Tämä näkökulma
-## tarjoaa hyvän yleiskuvan pelimaailmasta.
+    tarkoittaa, että pelaajat näkevät pelin ylhäältä katsottuna. Tämä näkökulma
+    tarjoaa hyvän yleiskuvan pelimaailmasta.
 
 ## Voimat
     Voima-upgradejen kerääminen antaa pelaajille mahdollisuuden
